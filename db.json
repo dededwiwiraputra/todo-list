@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "todo_list": "Learning CodeIgniter",
+      "id": 1
+    },
+    {
+      "todo_list": "Learning Laravel",
+      "id": 2
+    },
+    {
+      "todo_list": "Learing ReactJS",
+      "id": 3
+    }
+  ]
+}
